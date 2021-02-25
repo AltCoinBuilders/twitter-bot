@@ -106,7 +106,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
    pip install -r requirements.txt
    ```
 4. Enter your API in `config.py`
-   **Make a `config.py` file if it doesn't exist**
+   ** <Make a `config.py` file if it doesn't exist>**
    ```PY
    api_key="your_api"
    api_secret="your_api_secret"
