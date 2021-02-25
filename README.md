@@ -61,7 +61,7 @@
 ## About The Project
 
 This twitter bot is developed for following a specific person/user acouunt and retweet all the tweets of his/her timeline.
-Initial Purpose is the mass trending in twitter about current Myanmar problems.
+Initial Purpose is the mass trending in twitter about **Myanmar** current problems.
 However, the project is not super user-friendly yet. I am looking for contributors who can make gui apps, improve code, make new features, fix known issues etc...
 
 ### Built With
@@ -111,6 +111,25 @@ However, the project is not super user-friendly yet. I am looking for contributo
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+
+Here is how to use the code as of latest source code.
+
+1. Run the file `main.py` in the terminal.
+
+2. You have to fill in the twitter api if you use the code for the first time.You can take a look at the demo images provided below.
+
+3. Rerun the file `main.py` in the terminal.
+
+4. This time the twitter bot window will pop up.
+
+5. 1. Add the user_id, which is @*user_id* in the twitter profile.
+   2. Add the number of retweets you want to retweet from that user.
+
+6. Click Start! and check the process in terminal.
+
+## Demo Images
+
+--demo_images###
 
 
 <!-- ROADMAP -->
